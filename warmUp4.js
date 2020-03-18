@@ -1,7 +1,5 @@
-Test-Test-Test-Test-Test-Test-Test-Test-Test-Test-Test-Test- 17.03.2020 11.50 pm
 
-
-
+/*This is just a test rbk*/
 
 // 1-write a function that returns the product of any number by 3.
 
