@@ -10,6 +10,7 @@ function myTrueFun() {
 
 // 2- Define a function called color in which returns true if type of the input is string and returns false otherwise.
 
+<<<<<<< HEAD
 function color(inp) {
 
 	if(typeof inp == "string") {
@@ -19,6 +20,8 @@ function color(inp) {
 
 	return false;
 }
+=======
+>>>>>>> eedf4d1da29beb7f6472f832fb846002ed7197b5
 
 // 3-Write a JavaScript function that accepts a number as a parameter and check if the number is prime or not.
 
@@ -45,6 +48,7 @@ var count = 0;
 
 // 4-write a function that accepts two numbers as parameters and returns true if the two parameters have the same value , false if not
 
+<<<<<<< HEAD
 function same(a, b) {
 
 	if (a === b) {
@@ -55,3 +59,5 @@ function same(a, b) {
 	return false;
 
 }
+=======
+>>>>>>> eedf4d1da29beb7f6472f832fb846002ed7197b5
